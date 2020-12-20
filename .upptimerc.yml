@@ -4,9 +4,9 @@ repo: bartopuptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: App Servers
+  - name: PWA & App Systems
     url: https://app.bartop.xyz
-  - name: API Servers
+  - name: API
     url: $API_SERVER
   - name: Database
     url: $DATABASE_URL
