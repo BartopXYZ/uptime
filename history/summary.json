@@ -4,18 +4,20 @@
     "url": "https://app.bartop.xyz",
     "icon": "https://favicons.githubusercontent.com/app.bartop.xyz",
     "slug": "pwa-and-app-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 137,
-    "timeWeek": 143,
+    "timeDay": 131,
+    "timeWeek": 141,
     "timeMonth": 145,
     "timeYear": 142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "API",
@@ -43,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "database",
     "status": "up",
-    "uptime": "65.67%",
+    "uptime": "65.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.67%",
+    "uptimeYear": "65.74%",
     "time": 574,
     "timeDay": 1097,
     "timeWeek": 851,
@@ -120,17 +122,19 @@
     "url": "https://bartop.xyz",
     "icon": "https://favicons.githubusercontent.com/bartop.xyz",
     "slug": "dashboard-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 131,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 141,
-    "dailyMinutesDown": {}
+    "time": 140,
+    "timeDay": 95,
+    "timeWeek": 143,
+    "timeMonth": 153,
+    "timeYear": 140,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
